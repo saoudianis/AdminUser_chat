@@ -1,0 +1,98 @@
+nav{
+    padding-bottom: 20px;
+            }
+
+
+/*    Login style    */ 
+body{
+    padding: 0;
+    margin: 0;
+}
+ .emailh{
+  text-align: center;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-top: 20px;
+            }
+textarea{ height: 120px;
+            }
+form{padding-bottom: 20px;
+            }
+body{
+    background-color: red;
+}
+
+
+/* ChatBox style */
+.chatBox{
+    width: 300px;
+    height: 400px;
+    margin:  auto;
+    border: 1px solid;
+    border-radius: 5px;
+    
+    
+}
+.cb-head{
+    border: 2px solid;
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    background-color: blue;
+    border-radius: 5px;
+    margin-top: 3px;
+    text-align: center;
+    
+    
+}
+.send-m{
+    
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.cb-msgs{
+     border: 2px solid;
+    width: 280px;
+    height: 320px;
+    margin: auto;
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.online{
+    float: right;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.username{
+    margin-left: 5px;
+}
+.from-u{
+    border-radius: 5px;
+    margin-right: 20px;
+    
+    background-color: #203ee8;
+    margin-bottom: 5px;
+}
+.from-a{
+    
+    border-radius: 5px;
+    margin-left: 20px;
+    background-color: #f0f5e4;
+    margin-bottom: 5px;
+}
+.container .row .from-u h3{
+    color: red;
+    text-align: center;
+    position: relative;
+    
+}
